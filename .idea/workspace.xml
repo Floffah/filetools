@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c1ba209-9199-4154-9abc-3cb956831608" name="Default Changelist" comment="" />
+    <list default="true" id="4c1ba209-9199-4154-9abc-3cb956831608" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/filetools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/filetools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../../gopath/projects/filetools" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1i0KlRj2ggHv65BKrRAGkktdUau" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -22,24 +41,27 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
     <state x="752" y="358" key="#Go_Modules" timestamp="1601039257943">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="752" y="358" key="#Go_Modules/0.0.1920.1050/1920.26.1680.1020@0.0.1920.1050" timestamp="1601039257943" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1601039405706">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1601040804190">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.26.1680.1020@0.0.1920.1050" timestamp="1601039405706" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1601039406605">
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.26.1680.1020@0.0.1920.1050" timestamp="1601040804190" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1601040973477">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.26.1680.1020@0.0.1920.1050" timestamp="1601039406605" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.26.1680.1020@0.0.1920.1050" timestamp="1601040973477" />
   </component>
 </project>
