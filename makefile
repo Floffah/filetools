@@ -3,7 +3,7 @@ winbuild:
 
 wintest:
 	go build -o bin/filetools.exe src/main.go
-	cd test && "../bin/filetools.exe" -Name=node_modules
+	cd test && "../bin/filetools.exe" -Method=checkdir -Name=node_modules
 
 unixbuild:
 	go build -o bin/filetools src/main.go
